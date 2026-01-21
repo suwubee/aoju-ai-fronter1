@@ -1,0 +1,5 @@
+name = "aoju-ai-fronter1"
+pages_build_output_dir = "dist"
+
+[vars]
+ENVIRONMENT = "production"

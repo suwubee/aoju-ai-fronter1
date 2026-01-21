@@ -1,0 +1,10 @@
+{
+  "name": "AOJU AI Frontier",
+  "description": "A next-generation AI platform interface featuring a neural network background and glassmorphism UI.",
+  "deployment": {
+    "platform": "Cloudflare",
+    "method": "Wrangler / GitHub Actions",
+    "build_command": "sh deploy.sh"
+  },
+  "requestFramePermissions": []
+}
